@@ -1,4 +1,4 @@
-/* This project is created as a solution to Lab 5- FunctionsInC from UT6.03x course--- 
+/* This project is created as a solution to Lab 4- InputOutput from UT6.03x course--- 
    The main structure is from Daniel Valvano, Jonathan Valvano and Ramesh Yerraballi-----
 	 The author adds more comments explaining each register--------------------------------
 	 Created by: Dinh-Nghi Nguyen----------------------------------------------------------
@@ -63,6 +63,4 @@ unsigned long SW1, SW2;
 void PortF_Init(void);
 void Delay(void);
 void SystemInit(){}
-unsigned long Calc_Area(unsigned long l, unsigned long w); 
-
 	

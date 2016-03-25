@@ -1,0 +1,4 @@
+Dependencies for Project 'BranchingFunctionsDelays', Target 'BranchingFunctionsDelays': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I D:\DevEnvironment\Keil\ARM\RV31\INC-I D:\DevEnvironment\Keil\ARM\CMSIS\Include-I D:\DevEnvironment\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x56F53FE7)(-c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork -I D:\DevEnvironment\Keil\ARM\RV31\INC-I D:\DevEnvironment\Keil\ARM\CMSIS\Include-I D:\DevEnvironment\Keil\ARM\Inc\TI\TM4C123-DTM4C123GH6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (lab6.h)(0x56F51620)

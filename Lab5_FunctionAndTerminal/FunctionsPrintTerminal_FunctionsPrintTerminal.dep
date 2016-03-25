@@ -1,0 +1,9 @@
+Dependencies for Project 'FunctionsPrintTerminal', Target 'FunctionsPrintTerminal': (DO NOT MODIFY !)
+F (.\startup_TM4C123.s)(0x532C4792)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I D:\DevEnvironment\Keil\ARM\RV31\INC-I D:\DevEnvironment\Keil\ARM\CMSIS\Include-I D:\DevEnvironment\Keil\ARM\Inc\TI\TM4C123--list .\startup_tm4c123.lst --xref -o .\startup_tm4c123.o --depend .\startup_tm4c123.d)
+F (.\main.c)(0x56F50D8D)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\DevEnvironment\Keil\ARM\RV31\INC-I D:\DevEnvironment\Keil\ARM\CMSIS\Include-I D:\DevEnvironment\Keil\ARM\Inc\TI\TM4C123-DTM4C123GE6PM-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (D:\DevEnvironment\Keil\ARM\ARMCC\include\stdio.h)(0x51C80BA4)
+I (uart.h)(0x56F43A4A)
+F (.\UART.c)(0x56F43A37)(-c --cpu Cortex-M4 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I D:\DevEnvironment\Keil\ARM\RV31\INC-I D:\DevEnvironment\Keil\ARM\CMSIS\Include-I D:\DevEnvironment\Keil\ARM\Inc\TI\TM4C123-DTM4C123GE6PM-o .\uart.o --omf_browse .\uart.crf --depend .\uart.d)
+I (UART.h)(0x56F43A4A)
+I (D:\DevEnvironment\Keil\ARM\ARMCC\include\stdio.h)(0x51C80BA4)
+F (.\UART.h)(0x56F43A4A)()
